@@ -1,0 +1,9 @@
+Flask==2.2.5
+flask_cors==4.0.0
+pycryptodome==3.19.0
+PyMySQL==1.1.0
+pytz==2023.3.post1
+Requests==2.31.0
+urllib3==1.26.17
+cycler==0.11.0
+ddddocr~=1.4.9
