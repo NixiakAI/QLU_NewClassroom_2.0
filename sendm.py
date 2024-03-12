@@ -2,8 +2,8 @@ import smtplib
 from email.message import EmailMessage
 
 def mail_to_send_me(maildata):
-    email_address_from = '2074494853@qq.com'
-    email_address = '1430147707@qq.com'
+    email_address_from = '@.com'
+    email_address = '@.com'
     email_title = '空教室用户报告'
     email_content = maildata
     message = EmailMessage()
